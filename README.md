@@ -1,0 +1,2 @@
+# 1oct2026-gitresetVSgitrevert
+1oct2026-gitresetVSgitrevert
